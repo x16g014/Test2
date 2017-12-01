@@ -6,6 +6,7 @@ public class Fofofo {
 System.out.println("つぶら");
 System.out.println("aaa");
 System.out.println("いくら");
+System.out.println("まじまーじ");
 	}
 
 }
