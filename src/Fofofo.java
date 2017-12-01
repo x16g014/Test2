@@ -5,7 +5,7 @@ public class Fofofo {
 		// TODO 自動生成されたメソッド・スタブ
 System.out.println("つぶら");
 System.out.println("aaa");
-System.out.println("samezima");
+System.out.println("いくら");
 	}
 
 }
